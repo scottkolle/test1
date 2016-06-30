@@ -9,6 +9,6 @@ namespace ConsoleApp1
     {
         public static void Main(string[] args)
         {// bug fix
-        }
+        }// ok lets fix this bug
     }
 }
