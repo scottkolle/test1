@@ -9,6 +9,8 @@ namespace ConsoleApp1
     {
         public static void Main(string[] args)
         {
+           string valueString = "Hello World!";
+            Console.WriteLine(valueString);  
         } // now some changes that don't match to create conflict
     }
 } // add some really cool features here, there will also be conflicts with the bug #2 branch since we are changing same code
