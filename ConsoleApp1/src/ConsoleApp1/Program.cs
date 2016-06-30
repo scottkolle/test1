@@ -9,6 +9,6 @@ namespace ConsoleApp1
     {
         public static void Main(string[] args)
         {
-        }
+        } // now some changes that don't match to create conflict
     }
 }
