@@ -8,5 +8,5 @@ namespace ClassLibrary1
 {
     public class Class1
     {// test comment
-    }// more test comments
+    }// more test comments and fix bug
 }
