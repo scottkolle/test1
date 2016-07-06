@@ -12,3 +12,4 @@ namespace ClassLibrary1
 } // oops found another bug
 //added new feature
 // commit 1
+// commit 2
