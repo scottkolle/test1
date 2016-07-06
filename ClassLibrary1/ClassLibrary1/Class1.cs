@@ -11,3 +11,4 @@ namespace ClassLibrary1
     }// more test comments and fix bug
 } // oops found another bug
 //added new feature
+// commit 1
