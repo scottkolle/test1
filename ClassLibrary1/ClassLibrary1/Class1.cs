@@ -9,4 +9,4 @@ namespace ClassLibrary1
     public class Class1
     {// test comment
     }// more test comments and fix bug
-}
+} // oops found another bug
