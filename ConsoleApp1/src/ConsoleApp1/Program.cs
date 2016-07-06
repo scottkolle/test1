@@ -8,7 +8,8 @@ namespace ConsoleApp1
     public class Program
     {
         public static void Main(string[] args)
-        {
-        } // now some changes that don't match to create conflict
-    }
+        {// bug fix
+        }// ok lets fix this bug
+        // now do some more
+    } // and a bit more
 }
