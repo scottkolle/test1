@@ -8,8 +8,9 @@ namespace ConsoleApp1
     public class Program
     {
         public static void Main(string[] args)
-        {// bug fix
-        }// ok lets fix this bug
-        // now do some more
-    } // and a bit more
-}
+        {
+           string valueString = "Hello World!";
+            Console.WriteLine(valueString);  
+        } // now some changes that don't match to create conflict
+    }
+} // add some really cool features here, there will also be conflicts with the bug #2 branch since we are changing same code
