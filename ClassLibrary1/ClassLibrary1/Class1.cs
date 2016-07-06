@@ -17,7 +17,7 @@ namespace ClassLibrary1
 // commit 4
 // commit 5
 // commit 6
-// commit 7  try to create conflict
+// commit 7 try to add to this and conflict and just for the heck of it make it better
 // commit 8
 // commit 9
 // commit 10  some additional changes to commit 10 and a little fix here
