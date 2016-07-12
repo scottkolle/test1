@@ -17,11 +17,17 @@ namespace ClassLibrary1
 // commit 4
 // commit 5
 // commit 6
-// commit 7
+// commit 7 try to add to this and conflict and just for the heck of it make it better
 // commit 8
 // commit 9 anotherrebase
 // commit 8
 // commit 9
-// commit 10
+// commit 10  some additional changes to commit 10 and a little fix here
 // commit 11
 // commit 12 some other changes
+// commit 12
+// commit 13 something totally new
+} // oops found another bug
+// new bug 
+// commit 13 something totally new
+} // oops found another bug
