@@ -26,3 +26,5 @@ namespace ClassLibrary1
 // commit 13 something totally new
 } // oops found another bug
 // new bug 
+// commit 13 something totally new
+} // oops found another bug
